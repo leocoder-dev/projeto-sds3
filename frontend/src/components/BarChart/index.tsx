@@ -60,7 +60,7 @@ const BarChart = () => {
             }
         },
     };
-
+    // eslint-disable-next-line
     const mockData = {
         labels: {
             categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
